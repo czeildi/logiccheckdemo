@@ -1,2 +1,6 @@
 ^logiccheckdemo\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+.rstudio
+Dockerfile
+docker-compose.yml
